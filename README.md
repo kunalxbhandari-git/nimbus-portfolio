@@ -233,10 +233,10 @@ If you find this portfolio template helpful, please consider:
 
 ## 📞 Contact
 
-- **Email**: kunal@example.com
-- **LinkedIn**: [linkedin.com/in/kunalbhandari](https://linkedin.com/in/kunalbhandari)
-- **GitHub**: [github.com/kunalbhandari](https://github.com/kunalbhandari)
-- **Portfolio**: [kunalbhandari.dev](https://kunalbhandari.dev)
+- **Email**: kunalxbhandari@gmail.com
+- **LinkedIn**: [linkedin.com/in/kunalbhandari](https://linkedin.com/in/kunalxbhandari)
+- **GitHub**: [github.com/kunalbhandari](https://github.com/kunalxbhandari-git)
+- **Portfolio**: [kunalbhandari.dev](https://kunalxbhandari.xyz)
 
 ---
 
