@@ -9,19 +9,14 @@ import {
   FaJsSquare, 
   FaHtml5, 
   FaCss3Alt, 
-  FaGitAlt, 
-  FaDocker,
-  FaAws 
+  FaGitAlt
 } from 'react-icons/fa';
 import { 
   SiTypescript, 
   SiMongodb, 
-  SiPostgresql, 
   SiTailwindcss, 
   SiNextdotjs,
-  SiExpress,
-  SiRedis,
-  SiGraphql
+  SiExpress
 } from 'react-icons/si';
 
 const About = () => {
